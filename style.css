@@ -1,0 +1,40 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+      background-image: url("https://www.catedralonline.com.br/wp-content/uploads/img_2018_03_18D.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+  font-family: Trebuchet MS;
+    }
+
+
+main{
+  text-align: center;
+  width: 80%;
+  margin-left:  auto;
+  margin-right: auto;
+  line-height: 30px;
+}
+
+h1:first-letter, a:first-letter {
+  font-size: 1em;
+}
+
+ol{
+  list-style-position:inside;
+}
+
+nav a{
+  text-decoration: none;
+  margin: 20px;
+}
+
+
+img[alt="image of underwater"]{
+  margin: 20px;
+  width: 30%
+}
+
